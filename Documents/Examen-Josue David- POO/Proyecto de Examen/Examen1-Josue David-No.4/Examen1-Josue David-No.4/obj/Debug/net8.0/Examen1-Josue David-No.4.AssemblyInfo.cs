@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Examen1-Josue David-No.4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec062c4e2cd57442e64a98374687225f9758771b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f871313b5c67fc944228c69d03f1e6d4231f2d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Examen1-Josue David-No.4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Examen1-Josue David-No.4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,6 +2,10 @@
 using Examen1_Josue_David_No._4.Entidades;
 using Examen1_Josue_David_No._4.Servicio.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 
 namespace Examen1_Josue_David_No._4.Controlador
 {
@@ -11,6 +15,7 @@ namespace Examen1_Josue_David_No._4.Controlador
     {
         private List<EntidadCategoria> _categorias;
         private readonly ICategoriesService _categoriaServicio;
+        
         [HttpGet]
         public async Task<ActionResult> GetAll()
         {
@@ -22,7 +27,7 @@ namespace Examen1_Josue_David_No._4.Controlador
             throw new NotImplementedException();
         }
 
-        [HttpGet("id")]
+        [HttpGet("{id}")]
 
         public async Task<ActionResult> Get(Guid id)
         {
@@ -59,6 +64,5 @@ namespace Examen1_Josue_David_No._4.Controlador
             await _categoriaServicio.DeleteAsync(id);
             return Ok(category);
         }
-
     }
 }

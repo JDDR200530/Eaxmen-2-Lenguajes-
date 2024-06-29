@@ -1,12 +1,18 @@
 ﻿using Examen1_Josue_David_No._4.Controlador;
 using Examen1_Josue_David_No._4.Dtos.Categorias;
 using Examen1_Josue_David_No._4.Servicio.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text.Json;
+using System.Threading.Tasks;
 
 namespace Examen1_Josue_David_No._4.Servicio
 {
     public class ServicioCategoria : ICategoriesService
     {
-        public readonly string _JSON_File;
+        private readonly string _JSON_File;
 
         public ServicioCategoria()
         {
@@ -18,39 +24,77 @@ namespace Examen1_Josue_David_No._4.Servicio
             return await ReadCategoriesFromFileAsync();
         }
 
-        private async Task<List<Pedido>> ReadCategoriesFromFileAsync()
-        {
-            throw new NotImplementedException();
-        }
-
         public async Task<Pedido> GetCategoryByIdAsync(Guid id)
         {
-            var categoria = await ReadCategoriesFromFileAsync();
-            Pedido pedido = categoria.FirstOrDefault(x => x.Id == id);
+            var categorias = await ReadCategoriesFromFileAsync();
+            Pedido pedido = categorias.FirstOrDefault(x => x.Id == id);
             return pedido;
         }
 
-        public async Task<bool>CreatAsync(Cliente dto)
+        public async Task<bool> CreateAsync(Cliente dto)
         {
-            var categoriaDtos = await ReadCategoriesFromFileAsync();
-
-            var pedido = new Pedido
+            try
             {
-                Id = Guid.NewGuid(),
-                IdCliente = Guid.NewGuid(),
-                IdProducto = Guid.NewGuid(),
+                var categorias = await ReadCategoriesFromFileAsync();
 
-            };
+                var pedido = new Pedido
+                {
+                    Id = Guid.NewGuid(),
+                    IdCliente = dto.IdCliente, 
+                 
+                };
 
-            categoriaDtos.Add(pedido);
-            var categorias = categoriaDtos.Select(x => new ControladordeCategorias
+                categorias.Add(pedido);
+
+                var categoriasControlador = categorias.Select(x => new ControladordeCategorias
+                {
+                    
+                    
+                }).ToList();
+
+                await WriteCategoriesToFileAsync(categoriasControlador);
+
+                return true;
+            }
+            catch (Exception ex)
             {
-                Id = x.Id,
-                Name= x.Name,
-                Description = x.Description,
-            })
+               
+                Console.WriteLine($"Error en CreateAsync: {ex.Message}");
+                return false;
+            }
+        }
 
+        private async Task<List<Pedido>> ReadCategoriesFromFileAsync()
+        {
+            try
+            {
+                using (FileStream fs = new FileStream(_JSON_File, FileMode.Open, FileAccess.Read))
+                {
+                    return await JsonSerializer.DeserializeAsync<List<Pedido>>(fs);
+                }
+            }
+            catch (Exception ex)
+            {
+                // Manejo de excepciones adecuado
+                Console.WriteLine($"Error en ReadCategoriesFromFileAsync: {ex.Message}");
+                return new List<Pedido>();
+            }
+        }
 
+        private async Task WriteCategoriesToFileAsync(List<ControladordeCategorias> categorias)
+        {
+            try
+            {
+                using (FileStream fs = new FileStream(_JSON_File, FileMode.Create, FileAccess.Write))
+                {
+                    await JsonSerializer.SerializeAsync(fs, categorias);
+                }
+            }
+            catch (Exception ex)
+            {
+               
+                Console.WriteLine($"Error en WriteCategoriesToFileAsync: {ex.Message}");
+            }
         }
 
         public Task<List<Pedido>> GetCategoriesListAsync(Guid id)

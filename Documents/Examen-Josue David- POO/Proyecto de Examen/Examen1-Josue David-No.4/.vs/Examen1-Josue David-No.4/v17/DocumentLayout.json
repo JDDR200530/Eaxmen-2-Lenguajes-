@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|c:\\users\\josue david\\documents\\examen-josue david- poo\\proyecto de examen\\examen1-josue david-no.4\\examen1-josue david-no.4\\servicio\\serviciocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|solutionrelative:examen1-josue david-no.4\\servicio\\serviciocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|c:\\users\\josue david\\documents\\examen-josue david- poo\\proyecto de examen\\examen1-josue david-no.4\\examen1-josue david-no.4\\servicio\\interfaces\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|solutionrelative:examen1-josue david-no.4\\servicio\\interfaces\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|c:\\users\\josue david\\documents\\examen-josue david- poo\\proyecto de examen\\examen1-josue david-no.4\\examen1-josue david-no.4\\controlador\\controladordecategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|solutionrelative:examen1-josue david-no.4\\controlador\\controladordecategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|c:\\users\\josue david\\documents\\examen-josue david- poo\\proyecto de examen\\examen1-josue david-no.4\\examen1-josue david-no.4\\entidades\\entidadcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|solutionrelative:examen1-josue david-no.4\\entidades\\entidadcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|c:\\users\\josue david\\documents\\examen-josue david- poo\\proyecto de examen\\examen1-josue david-no.4\\examen1-josue david-no.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|solutionrelative:examen1-josue david-no.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|c:\\users\\josue david\\documents\\examen-josue david- poo\\proyecto de examen\\examen1-josue david-no.4\\examen1-josue david-no.4\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F247E2D2-DE9B-4F18-8126-7BB62C443E9B}|Examen1-Josue David-No.4\\Examen1-Josue David-No.4.csproj|solutionrelative:examen1-josue david-no.4\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,67 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICategoriesService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Servicio\\Interfaces\\ICategoriesService.cs",
-              "RelativeDocumentMoniker": "Examen1-Josue David-No.4\\Servicio\\Interfaces\\ICategoriesService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Servicio\\Interfaces\\ICategoriesService.cs",
-              "RelativeToolTip": "Examen1-Josue David-No.4\\Servicio\\Interfaces\\ICategoriesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Program.cs",
+              "RelativeDocumentMoniker": "Examen1-Josue David-No.4\\Program.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Program.cs",
+              "RelativeToolTip": "Examen1-Josue David-No.4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:23:42.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServicioCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Servicio\\ServicioCategoria.cs",
-              "RelativeDocumentMoniker": "Examen1-Josue David-No.4\\Servicio\\ServicioCategoria.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Servicio\\ServicioCategoria.cs",
-              "RelativeToolTip": "Examen1-Josue David-No.4\\Servicio\\ServicioCategoria.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAA1wDEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:22:56.479Z",
+              "WhenOpened": "2024-06-29T02:45:56.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Startup.cs",
+              "RelativeDocumentMoniker": "Examen1-Josue David-No.4\\Startup.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Startup.cs",
+              "RelativeToolTip": "Examen1-Josue David-No.4\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:46:20.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ControladordeCategorias.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Controlador\\ControladordeCategorias.cs",
               "RelativeDocumentMoniker": "Examen1-Josue David-No.4\\Controlador\\ControladordeCategorias.cs",
               "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Controlador\\ControladordeCategorias.cs",
               "RelativeToolTip": "Examen1-Josue David-No.4\\Controlador\\ControladordeCategorias.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T01:19:23.074Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EntidadCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Entidades\\EntidadCategoria.cs",
-              "RelativeDocumentMoniker": "Examen1-Josue David-No.4\\Entidades\\EntidadCategoria.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen-Josue David- POO\\Proyecto de Examen\\Examen1-Josue David-No.4\\Examen1-Josue David-No.4\\Entidades\\EntidadCategoria.cs",
-              "RelativeToolTip": "Examen1-Josue David-No.4\\Entidades\\EntidadCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:14:27.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

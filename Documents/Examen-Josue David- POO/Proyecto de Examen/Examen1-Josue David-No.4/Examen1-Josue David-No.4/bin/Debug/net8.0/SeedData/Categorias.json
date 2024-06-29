@@ -1,0 +1,28 @@
+[
+  {
+    "Id" : "21" 
+    "IdCliente": "001",
+    "IdProducto": "01",
+    "Fecha" :  "28/6/24",
+    "Lista de Productos" : "Arros, Brocoli, Zanahoria, Pollo",
+    "Total" : "250 lps" 
+  }
+  {
+    "Id": "30",
+    "IdCliente": "023",
+    "IdProducto": "78",
+    "Fecha": "30/6/24",
+    "Lista de Productos": "Jabon, Manzana, Espagueti ",
+    "Total": "150 lps"
+
+  }
+  {
+
+  }
+  {
+
+  }
+  {
+
+  }
+]
