@@ -1,0 +1,33 @@
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\appsettings.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Examen 2 -Josue David.exe
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Examen 2 -Josue David.deps.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Examen 2 -Josue David.runtimeconfig.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Examen 2 -Josue David.dll
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Examen 2 -Josue David.pdb
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.csproj.AssemblyReference.cache
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.AssemblyInfoInputs.cache
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.AssemblyInfo.cs
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.sourcelink.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\staticwebassets\msbuild.Examen 2 -Josue David.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\staticwebassets\msbuild.build.Examen 2 -Josue David.props
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Examen 2 -Josue David.props
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Examen 2 -Josue David.props
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\scopedcss\bundle\Examen 2 -Josue David.styles.css
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2.8AE0752D.Up2Date
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.dll
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\refint\Examen 2 -Josue David.dll
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.pdb
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\Examen 2 -Josue David.genruntimeconfig.cache
+C:\Users\JOSUE DAVID\Documents\Examen 2 -POO- Josue David Diaz\Examen 2 -Josue David\Examen 2 -Josue David\obj\Debug\net8.0\ref\Examen 2 -Josue David.dll
