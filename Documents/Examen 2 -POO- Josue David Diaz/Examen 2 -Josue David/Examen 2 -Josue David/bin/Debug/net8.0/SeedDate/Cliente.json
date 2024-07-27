@@ -1,0 +1,29 @@
+[
+  {
+    "ClienteId": "543aa099-c9a3-4129-a29b-92c34e4c4828",
+    "ClienteName": "Carlos Lopez",
+    "IdentityNumbre": "1303-1978-00015",
+    "loanAmount": 10000,
+    "Comission": 3,
+    "Amount": 12,
+    "Term": 24,
+  }
+  {
+    "ClienteId": "543aa099-c9a3-4129-a29b-87c34e4c4828",
+    "ClienteName": "Ever Hernandez",
+    "IdentityNumbre": "1303-1999-00415",
+    "loanAmount": 15000,
+    "Comission": 2,
+    "Amount": 10,
+    "Term": 12,
+  }
+  {
+    "ClienteId": "543aa099-c9a3-4129-a29b-92c34e4c4816",
+    "ClienteName": "Brayan Garcia",
+    "IdentityNumbre": "1303-2000-00978",
+    "loanAmount": 30000,
+    "Comission": 2,
+    "Amount": 14,
+    "Term": 36,
+  }
+]
