@@ -21,14 +21,14 @@ namespace Examen_2_Lenguajes.Database.Context
             catch (Exception e)
             {
                 var logger = loggerFactory.CreateLogger<PartidaSeeder>();
-                logger.LogError(e, "Error inicializacion la data API");
+                logger.LogError(e, "Error al inicializar los datos de la API.");
             }
         }
 
         public static async Task LoadUserAsync(
             UserManager<UserEntity> userManager,
             ILoggerFactory loggerFactory
-            )
+        )
         {
             try
             {
@@ -36,37 +36,37 @@ namespace Examen_2_Lenguajes.Database.Context
                 {
                     var normalUser = new UserEntity
                     {
-                        FirstName = string.Empty,
-                        LastName = string.Empty,
-                        Email = string.Empty,
-                        UserName = string.Empty,
+                        FirstName = "John",
+                        LastName = "Doe",
+                        Email = "johndoe@example.com",
+                        UserName = "johndoe",
                     };
                     await userManager.CreateAsync(normalUser, "Temporal1!");
-
                 }
             }
-            catch (Exception e) 
+            catch (Exception e)
             {
-                var looger = loggerFactory.CreateLogger<PartidaSeeder>();
-                looger.LogError(e.Message);
+                var logger = loggerFactory.CreateLogger<PartidaSeeder>();
+                logger.LogError(e.Message);
             }
         }
+
         public static async Task LoadPartidaAsync(ILoggerFactory loggerFactory, PartidasDbContext context)
         {
             try
             {
-                var jsonFilePath = "SeeData/Partidas.json";
+                var jsonFilePath = Path.Combine(Directory.GetCurrentDirectory(), "SeeData", "Partidas.json");
                 var jsonContent = await File.ReadAllTextAsync(jsonFilePath);
                 var partidas = JsonConvert.DeserializeObject<List<PartidaEntity>>(jsonContent);
 
                 if (!await context.Partidas.AnyAsync())
                 {
-                    var user = await context.UserClaims.FirstOrDefaultAsync();
+                    var user = await context.Users.FirstOrDefaultAsync();
                     for (int i = 0; i < partidas.Count; i++)
                     {
-                        partidas[i].CreatedBy = user.UserId;
+                        partidas[i].CreatedBy = user.Id;
                         partidas[i].CreatedDate = DateTime.Now;
-                        partidas[i].UpdatedBy = user.UserId;
+                        partidas[i].UpdatedBy = user.Id;
                         partidas[i].UpdatedDate = DateTime.Now;
                     }
                     context.AddRange(partidas);
@@ -76,40 +76,31 @@ namespace Examen_2_Lenguajes.Database.Context
             catch (Exception e)
             {
                 var logger = loggerFactory.CreateLogger<PartidaSeeder>();
-                logger.LogError(e, "Error al Ejecutar el Seed Partidas");
+                logger.LogError(e, "Error al ejecutar el Seed de Partidas.");
             }
         }
-            public static async Task LoadCuentaAsync(ILoggerFactory loggerFactory, PartidasDbContext context)
+
+        public static async Task LoadCuentaAsync(ILoggerFactory loggerFactory, PartidasDbContext context)
         {
             try
             {
-                var jsonFilePath = "SeeData/CuentasContables.json";
+                var jsonFilePath = Path.Combine(Directory.GetCurrentDirectory(), "SeeData", "CuentasContables.json");
                 var jsonContent = await File.ReadAllTextAsync(jsonFilePath);
-                var partidas = JsonConvert.DeserializeObject<List<PartidaEntity>>(jsonContent);
+                var cuentas = JsonConvert.DeserializeObject<List<CuentaContableEntity>>(jsonContent);
 
-                if (!await context.Partidas.AnyAsync())
+                if (!await context.CuentaContables.AnyAsync())
                 {
-                    var user = await context.UserClaims.FirstOrDefaultAsync();
-                    for (int i = 0; i < partidas.Count; i++)
-                    {
-                        partidas[i].CreatedBy = user.UserId;
-                        partidas[i].CreatedDate = DateTime.Now;
-                        partidas[i].UpdatedBy = user.UserId;
-                        partidas[i].UpdatedDate = DateTime.Now;
-                    }
-                    context.AddRange(partidas);
+                    context.AddRange(cuentas);
                     await context.SaveChangesAsync();
                 }
             }
             catch (Exception e)
             {
                 var logger = loggerFactory.CreateLogger<PartidaSeeder>();
-                logger.LogError(e, "Error al Ejecutar el Seed Partidas");
+                logger.LogError(e, "Error al ejecutar el Seed de Cuentas Contables.");
             }
         }
-            
-            
-            
-     }
+    }
+
 
 }
