@@ -19,7 +19,7 @@ namespace Examen_2_Lenguajes.Helpers
         private void MapsForCuentasContables()
         {
             CreateMap<CuentaContableEntity, CuentaContableDto>();
-            CreateMap<CuentaContableCreatedDto, CuentaContableEntity>();
+            CreateMap<CuentaContableEditDto, CuentaContableEntity>();
         }
 
         private void MapsForUser()

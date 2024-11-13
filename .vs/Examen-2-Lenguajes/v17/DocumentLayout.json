@@ -3,6 +3,94 @@
   "WorkspaceRootPath": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\controllers\\paginacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\controllers\\paginacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\database\\context\\partidasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\database\\context\\partidasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\database\\context\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\database\\context\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\database\\configuration\\partidaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\database\\configuration\\partidaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\partidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\partidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\cuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\cuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\ipartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\ipartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\seeddata\\saldo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\seeddata\\saldo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\database\\context\\partidaseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\database\\context\\partidaseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\entity\\partidaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\entity\\partidaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\entity\\cuentacontableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\entity\\cuentacontableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\iauditservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\iauditservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\icuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\icuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,28 +115,8 @@
       "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\dto\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\database\\context\\partidasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\database\\context\\partidasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\iauditservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\iauditservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\database\\context\\partidaseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\database\\context\\partidaseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\seeddata\\partidas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -61,14 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\examen-2-lenguajes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\examen-2-lenguajes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\cuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\cuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\dto\\cuentacontable\\cuentacontablecreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\dto\\cuentacontable\\cuentacontablecreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\dto\\cuentacontable\\cuentacontabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,34 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\entity\\cuentacontableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\entity\\cuentacontableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\icuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\icuentacontableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\intefaces\\ipartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\intefaces\\ipartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\services\\partidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\services\\partidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|c:\\users\\josue david\\documents\\lenguaje de programacion\\examen u2 - 1 lenguajes\\examen 2 - lenguajes\\examen-2-lenguajes\\examen-2-lenguajes\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F92E4A-1E66-4DC1-8ADE-098036B7F252}|Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj|solutionrelative:examen-2-lenguajes\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,371 +170,72 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:43:39.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:42:46.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuthService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\AuthService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAApwDQAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:26:08.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RefreshTokenDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:44:38.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:45:05.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:46:02.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "PartidasDbContext.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\PartidasDbContext.cs",
               "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Database\\Context\\PartidasDbContext.cs",
               "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\PartidasDbContext.cs",
               "RelativeToolTip": "Examen-2-Lenguajes\\Database\\Context\\PartidasDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T14:43:56.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuditService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuditService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\AuditService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuditService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\AuditService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "DocumentIndex": 2,
+              "Title": "LoginDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\LoginDbContext.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Database\\Context\\LoginDbContext.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\LoginDbContext.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Database\\Context\\LoginDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:25:51.842Z",
+              "WhenOpened": "2024-11-13T12:55:29.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IAuditServices.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "DocumentIndex": 0,
+              "Title": "PaginacionController.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Controllers\\PaginacionController.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Controllers\\PaginacionController.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Controllers\\PaginacionController.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Controllers\\PaginacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:26:32.976Z",
+              "WhenOpened": "2024-11-13T11:33:52.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PartidaSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "PartidaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Configuration\\PartidaConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Database\\Configuration\\PartidaConfiguration.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Configuration\\PartidaConfiguration.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Database\\Configuration\\PartidaConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:37:19.751Z",
+              "WhenOpened": "2024-11-13T11:22:50.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Entity\\UserEntity.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\UserEntity.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Entity\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAawA4AAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "PartidaService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\PartidaService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\PartidaService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\PartidaService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\PartidaService.cs",
+              "ViewState": "AQIAABkAAADAcRwxdo4rwCIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:38:14.775Z",
+              "WhenOpened": "2024-11-12T13:25:29.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:26:54.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Partidas.json",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\SeedData\\Partidas.json",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\SeedData\\Partidas.json",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\SeedData\\Partidas.json",
-              "RelativeToolTip": "Examen-2-Lenguajes\\SeedData\\Partidas.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-12T14:38:39.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:48:19.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Examen-2-Lenguajes",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T13:30:03.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CuentaContableService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:41:35.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CuentaContableDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:39:02.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PartidaDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:36:07.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CuentaContableCreatedDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableCreatedDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableCreatedDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableCreatedDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableCreatedDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:39:24.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PartidaEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:37:27.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PartidaCreatedDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:36:29.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:35:36.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UserCreatedDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:35:10.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:34:52.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:28:54.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ICuentaContableService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:28:19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CuentaContableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:59:02.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IPartidaService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:27:49.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\UserService.cs",
@@ -515,29 +248,402 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "PartidaService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\PartidaService.cs",
-              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\PartidaService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\PartidaService.cs",
-              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\PartidaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "CuentaContableService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\CuentaContableService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:25:29.383Z",
+              "WhenOpened": "2024-11-12T13:41:35.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 7,
+              "Title": "IPartidaService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IPartidaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:27:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Startup.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Startup.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Startup.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Startup.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:32:14.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\appsettings.Development.json",
+              "RelativeToolTip": "Examen-2-Lenguajes\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T21:35:19.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Saldo.json",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\SeedData\\Saldo.json",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\SeedData\\Saldo.json",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\SeedData\\Saldo.json",
+              "RelativeToolTip": "Examen-2-Lenguajes\\SeedData\\Saldo.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T12:11:15.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PartidaSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Database\\Context\\PartidaSeeder.cs",
+              "ViewState": "AQIAAAEAAAAA61eK+BkowFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:37:19.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartidaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\PartidaEntity.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Entity\\PartidaEntity.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\PartidaEntity.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Entity\\PartidaEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:27:11.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Entity\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\BaseEntity.cs",
               "RelativeToolTip": "Examen-2-Lenguajes\\Entity\\BaseEntity.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBsAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:02:30.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T12:02:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Program.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Program.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Program.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:31:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CuentaContableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Entity\\CuentaContableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:59:02.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:28:54.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICuentaContableService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\ICuentaContableService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:28:19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:26:54.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuditServices.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\Intefaces\\IAuditServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:26:32.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:38:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\appsettings.json",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\appsettings.json",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\appsettings.json",
+              "RelativeToolTip": "Examen-2-Lenguajes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T21:35:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RefreshTokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\RefreshTokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:44:38.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:42:46.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:45:05.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuthService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\AuthService.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAApwOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:26:08.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Common\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:46:02.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuditService.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Services\\AuditService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Services\\AuditService.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Services\\AuditService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:25:51.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:43:39.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Partidas.json",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\SeedData\\Partidas.json",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\SeedData\\Partidas.json",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\SeedData\\Partidas.json",
+              "RelativeToolTip": "Examen-2-Lenguajes\\SeedData\\Partidas.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T14:38:39.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:48:19.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Examen-2-Lenguajes.csproj",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Examen-2-Lenguajes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T13:30:03.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CuentaContableDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\CuentaContable\\CuentaContableDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:39:02.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PartidaDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:36:07.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PartidaEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:37:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PartidaCreatedDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\Partida\\PartidaCreatedDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:36:29.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\User\\UserEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:35:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserCreatedDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\User\\UserCreatedDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:35:10.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Lenguaje de Programacion\\Examen U2 - 1 Lenguajes\\Examen 2 - Lenguajes\\Examen-2-Lenguajes\\Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
+              "RelativeToolTip": "Examen-2-Lenguajes\\Dto\\User\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:34:52.771Z"
             }
           ]
         }

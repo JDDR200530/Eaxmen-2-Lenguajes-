@@ -5,6 +5,7 @@ namespace Examen_2_Lenguajes.Entity
 {
     public class BaseEntity
     {
+        [Key]
         [Column("id")]
 
         public Guid Id { get; set; }
@@ -14,14 +15,14 @@ namespace Examen_2_Lenguajes.Entity
         public string CreatedBy { get; set; }
 
         [Column("created_date")]
-        public DateTime CreatedData{ get; set; }
+        public DateTime CreatedDate{ get; set; }
 
         [StringLength(450)]
         [Column("updated_by")]
         public string UpdatedBy { get; set; }
 
         [Column("updated_date")]
-        public DateTime UpdatedData { get; set; }
+        public DateTime UpdatedDate { get; set; }
 
     }
 }

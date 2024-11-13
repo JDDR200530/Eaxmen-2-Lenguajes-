@@ -1,6 +1,7 @@
 ﻿namespace Examen_2_Lenguajes.Dto.Partida
 {
-    public class PartidaCreatedDto
-    {
+    public class PartidaCreatedDto : PartidaDto
+    { 
+
     }
 }
