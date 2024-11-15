@@ -12,15 +12,5 @@ namespace Examen_2_Lenguajes.Entity
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
-        [Column("refresh_token")]
-        [StringLength(450)]
-        public string RefreshToken { get; set; }
-
-        [Column("refresh_token_expire")]
-        public DateTime RefreshTokenExpired
-        {
-            get; set;
-        }
-
     }
 }

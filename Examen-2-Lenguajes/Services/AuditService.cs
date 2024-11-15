@@ -4,18 +4,19 @@ namespace Examen_2_Lenguajes.Services
 {
     public class AuditService : IAuditServices
     {
-        private readonly IHttpContextAccessor httpContextAccessor1;
+        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public AuditService(IHttpContextAccessor httpContextAccessor1)
+        public AuditService(IHttpContextAccessor httpContextAccessor)
         {
-            this.httpContextAccessor1 = httpContextAccessor1;
+            _httpContextAccessor = httpContextAccessor;
         }
 
         public string GetUserId()
         {
-            var idClaim = httpContextAccessor1.HttpContext.User.Claims.Where(x => x.Type == "UserId").FirstOrDefault();
-
+            var idClaim = _httpContextAccessor.HttpContext.User.Claims.Where(x => x.Type == "UserId").FirstOrDefault();
             return idClaim.Value;
+          
         }
     }
+
 }

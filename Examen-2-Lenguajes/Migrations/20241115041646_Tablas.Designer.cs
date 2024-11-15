@@ -12,15 +12,14 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Examen_2_Lenguajes.Migrations
 {
     [DbContext(typeof(PartidasDbContext))]
-    [Migration("20241113174205_Init2")]
-    partial class Init2
+    [Migration("20241115041646_Tablas")]
+    partial class Tablas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasDefaultSchema("security")
                 .UseCollation("SQL_Latin1_General_CP1_CI_AS")
                 .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
@@ -36,29 +35,14 @@ namespace Examen_2_Lenguajes.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CodigoCuenta"));
 
-                    b.Property<string>("CreatedBy")
-                        .IsRequired()
-                        .HasMaxLength(450)
-                        .HasColumnType("nvarchar(450)")
-                        .HasColumnName("created_by");
-
-                    b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2")
-                        .HasColumnName("created_date");
-
-                    b.Property<int?>("CuentaContableEntityCodigoCuenta")
-                        .HasColumnType("int");
-
-                    b.Property<Guid>("Id")
-                        .HasColumnType("uniqueidentifier")
-                        .HasColumnName("id");
-
                     b.Property<decimal>("Monto")
-                        .HasColumnType("decimal(18,2)")
+                        .HasPrecision(18, 4)
+                        .HasColumnType("decimal(18,4)")
                         .HasColumnName("cantidad");
 
-                    b.Property<int>("Movimiento")
-                        .HasColumnType("int")
+                    b.Property<string>("Movimiento")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("tipo_movimiento");
 
                     b.Property<string>("NombreCuenta")
@@ -66,21 +50,9 @@ namespace Examen_2_Lenguajes.Migrations
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("nombre_cuenta");
 
-                    b.Property<string>("UpdatedBy")
-                        .IsRequired()
-                        .HasMaxLength(450)
-                        .HasColumnType("nvarchar(450)")
-                        .HasColumnName("updated_by");
-
-                    b.Property<DateTime>("UpdatedDate")
-                        .HasColumnType("datetime2")
-                        .HasColumnName("updated_date");
-
                     b.HasKey("CodigoCuenta");
 
-                    b.HasIndex("CuentaContableEntityCodigoCuenta");
-
-                    b.ToTable("cuenta", "dbo");
+                    b.ToTable("Catalago_Cuentas", "dbo");
                 });
 
             modelBuilder.Entity("Examen_2_Lenguajes.Entity.PartidaEntity", b =>
@@ -96,48 +68,33 @@ namespace Examen_2_Lenguajes.Migrations
                         .HasColumnType("int")
                         .HasColumnName("codigo_cuenta");
 
-                    b.Property<string>("CreatedBy")
-                        .IsRequired()
-                        .HasMaxLength(450)
-                        .HasColumnType("nvarchar(450)")
-                        .HasColumnName("created_by");
-
-                    b.Property<string>("CreatedByUserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2")
-                        .HasColumnName("created_date");
-
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
-                        .HasColumnName("description")
+                        .HasColumnName("descripcion")
                         .UseCollation("SQL_Latin1_General_CP1_CI_AS");
 
                     b.Property<DateTime>("FechaCreacion")
                         .HasColumnType("datetime2")
                         .HasColumnName("fecha_creacion");
 
-                    b.Property<Guid>("Id")
-                        .HasColumnType("uniqueidentifier")
-                        .HasColumnName("id");
+                    b.Property<decimal>("Monto")
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("monto");
 
                     b.Property<string>("NombreCuenta")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("nombre_cuenta");
 
-                    b.Property<string>("UpdatedBy")
+                    b.Property<string>("TipoTransaccion")
                         .IsRequired()
-                        .HasMaxLength(450)
-                        .HasColumnType("nvarchar(450)")
-                        .HasColumnName("updated_by");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("tipo_transaccion");
 
-                    b.Property<DateTime>("UpdatedDate")
-                        .HasColumnType("datetime2")
-                        .HasColumnName("updated_date");
+                    b.Property<string>("UpdatedByUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("UserId")
                         .IsRequired()
@@ -148,11 +105,49 @@ namespace Examen_2_Lenguajes.Migrations
 
                     b.HasIndex("CodigoCuenta");
 
-                    b.HasIndex("CreatedByUserId");
+                    b.HasIndex("UpdatedByUserId");
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Particiones", "dbo");
+                    b.ToTable("Partidas", "dbo");
+                });
+
+            modelBuilder.Entity("Examen_2_Lenguajes.Entity.SaldoEntity", b =>
+                {
+                    b.Property<DateTime>("Fecha")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("fecha");
+
+                    b.Property<int>("CodigoCuenta")
+                        .HasColumnType("int")
+                        .HasColumnName("codigo_cuenta");
+
+                    b.Property<string>("CreatedByUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<decimal>("Monto")
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("monto");
+
+                    b.Property<string>("NombreCuenta")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("nombre_cuenta");
+
+                    b.Property<string>("UpdatedByUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Fecha");
+
+                    b.HasIndex("CodigoCuenta");
+
+                    b.HasIndex("CreatedByUserId");
+
+                    b.HasIndex("UpdatedByUserId");
+
+                    b.ToTable("saldo", "dbo");
                 });
 
             modelBuilder.Entity("Examen_2_Lenguajes.Entity.UserEntity", b =>
@@ -205,16 +200,6 @@ namespace Examen_2_Lenguajes.Migrations
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("bit");
 
-                    b.Property<string>("RefreshToken")
-                        .IsRequired()
-                        .HasMaxLength(450)
-                        .HasColumnType("nvarchar(450)")
-                        .HasColumnName("refresh_token");
-
-                    b.Property<DateTime>("RefreshTokenExpired")
-                        .HasColumnType("datetime2")
-                        .HasColumnName("refresh_token_expire");
-
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
 
@@ -238,7 +223,7 @@ namespace Examen_2_Lenguajes.Migrations
                         .HasDatabaseName("UserNameIndex")
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
-                    b.ToTable("users", "security");
+                    b.ToTable("AspNetUsers", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -265,7 +250,7 @@ namespace Examen_2_Lenguajes.Migrations
                         .HasDatabaseName("RoleNameIndex")
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
-                    b.ToTable("AspNetRoles", "security");
+                    b.ToTable("AspNetRoles", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -290,7 +275,7 @@ namespace Examen_2_Lenguajes.Migrations
 
                     b.HasIndex("RoleId");
 
-                    b.ToTable("AspNetRoleClaims", "security");
+                    b.ToTable("AspNetRoleClaims", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
@@ -315,7 +300,7 @@ namespace Examen_2_Lenguajes.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("AspNetUserClaims", "security");
+                    b.ToTable("AspNetUserClaims", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
@@ -337,7 +322,7 @@ namespace Examen_2_Lenguajes.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("users_logins", "security");
+                    b.ToTable("AspNetUserLogins", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserRole<string>", b =>
@@ -352,7 +337,7 @@ namespace Examen_2_Lenguajes.Migrations
 
                     b.HasIndex("RoleId");
 
-                    b.ToTable("AspNetUserRoles", "security");
+                    b.ToTable("AspNetUserRoles", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
@@ -371,21 +356,40 @@ namespace Examen_2_Lenguajes.Migrations
 
                     b.HasKey("UserId", "LoginProvider", "Name");
 
-                    b.ToTable("AspNetUserTokens", "security");
-                });
-
-            modelBuilder.Entity("Examen_2_Lenguajes.Entity.CuentaContableEntity", b =>
-                {
-                    b.HasOne("Examen_2_Lenguajes.Entity.CuentaContableEntity", null)
-                        .WithMany("Subdivisiones")
-                        .HasForeignKey("CuentaContableEntityCodigoCuenta")
-                        .OnDelete(DeleteBehavior.Restrict);
+                    b.ToTable("AspNetUserTokens", (string)null);
                 });
 
             modelBuilder.Entity("Examen_2_Lenguajes.Entity.PartidaEntity", b =>
                 {
                     b.HasOne("Examen_2_Lenguajes.Entity.CuentaContableEntity", "CuentaContable")
-                        .WithMany("Partida")
+                        .WithMany("Partidas")
+                        .HasForeignKey("CodigoCuenta")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("Examen_2_Lenguajes.Entity.UserEntity", "UpdatedByUser")
+                        .WithMany()
+                        .HasForeignKey("UpdatedByUserId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("Examen_2_Lenguajes.Entity.UserEntity", "CreatedByUser")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("CreatedByUser");
+
+                    b.Navigation("CuentaContable");
+
+                    b.Navigation("UpdatedByUser");
+                });
+
+            modelBuilder.Entity("Examen_2_Lenguajes.Entity.SaldoEntity", b =>
+                {
+                    b.HasOne("Examen_2_Lenguajes.Entity.CuentaContableEntity", "CuentaContable")
+                        .WithMany()
                         .HasForeignKey("CodigoCuenta")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -398,7 +402,7 @@ namespace Examen_2_Lenguajes.Migrations
 
                     b.HasOne("Examen_2_Lenguajes.Entity.UserEntity", "UpdatedByUser")
                         .WithMany()
-                        .HasForeignKey("UserId")
+                        .HasForeignKey("UpdatedByUserId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
@@ -462,9 +466,7 @@ namespace Examen_2_Lenguajes.Migrations
 
             modelBuilder.Entity("Examen_2_Lenguajes.Entity.CuentaContableEntity", b =>
                 {
-                    b.Navigation("Partida");
-
-                    b.Navigation("Subdivisiones");
+                    b.Navigation("Partidas");
                 });
 #pragma warning restore 612, 618
         }

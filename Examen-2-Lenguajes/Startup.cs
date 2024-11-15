@@ -27,6 +27,7 @@ namespace Examen_2_Lenguajes
             services.AddSwaggerGen();
             services.AddHttpContextAccessor();
 
+            var name = configuration.GetConnectionString("DefaultConnection");
             // DbContext Configuration
             services.AddDbContext<PartidasDbContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
@@ -38,6 +39,8 @@ namespace Examen_2_Lenguajes
             services.AddTransient<IPartidaService, PartidaService>();
             services.AddTransient<IAuditServices, AuditService>();
             services.AddTransient<IAuthService, AuthService>();
+            services.AddTransient<ICuentaContableService, CuentaContableService>();
+
             // Identity Configuration
             services.AddIdentity<UserEntity, IdentityRole>(options =>
             {
@@ -68,6 +71,7 @@ namespace Examen_2_Lenguajes
             });
 
             services.AddAutoMapper(typeof(AutoMapperProfile));
+
             // CORS Configuration
             services.AddCors(opt =>
             {
@@ -93,7 +97,6 @@ namespace Examen_2_Lenguajes
 
             app.UseRouting();
 
-            // Use CORS policy
             app.UseCors("CorsPolicy");
 
             app.UseAuthentication();
@@ -104,7 +107,9 @@ namespace Examen_2_Lenguajes
             {
                 endpoints.MapControllers();
             });
+
         }
     }
+
 
 }

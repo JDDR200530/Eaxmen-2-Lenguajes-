@@ -7,5 +7,6 @@ namespace Examen_2_Lenguajes.Services.Intefaces
     {
         Task<ResponseDto<CuentaContableDto>> EditAsync(CuentaContableEditDto dto);
         Task<ResponseDto<List<CuentaContableDto>>> GetCuentasListAsync();
+      Task<ResponseDto<CuentaContableDto>> CreatedCuentaAsync(CreacionCuentaCreateDto dto);
     }
 }

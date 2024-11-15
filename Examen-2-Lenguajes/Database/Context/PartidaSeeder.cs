@@ -1,7 +1,9 @@
 ﻿using Examen_2_Lenguajes.Entity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
+using System.Net.WebSockets;
 
 namespace Examen_2_Lenguajes.Database.Context
 {
@@ -12,6 +14,7 @@ namespace Examen_2_Lenguajes.Database.Context
             ILoggerFactory loggerFactory,
             UserManager<UserEntity> userManager)
         {
+    
             try
             {
                 await LoadUserAsync(userManager, loggerFactory);
@@ -25,10 +28,9 @@ namespace Examen_2_Lenguajes.Database.Context
             }
         }
 
-        public static async Task LoadUserAsync(
+        private static async Task LoadUserAsync(
             UserManager<UserEntity> userManager,
-            ILoggerFactory loggerFactory
-        )
+            ILoggerFactory loggerFactory)
         {
             try
             {
@@ -41,38 +43,31 @@ namespace Examen_2_Lenguajes.Database.Context
                         Email = "johndoe@example.com",
                         UserName = "johndoe",
                     };
-                    await userManager.CreateAsync(normalUser, "Temporal1!");
+                    await userManager.CreateAsync(normalUser, "Temporal01!");
+
                 }
             }
             catch (Exception e)
             {
                 var logger = loggerFactory.CreateLogger<PartidaSeeder>();
-                logger.LogError(e.Message);
+                logger.LogError(e, "Error al cargar usuarios.");
             }
         }
 
-        public static async Task LoadPartidaAsync(ILoggerFactory loggerFactory, PartidasDbContext context)
+        private static async Task LoadPartidaAsync(ILoggerFactory loggerFactory, PartidasDbContext context)
         {
             try
             {
-                var jsonFilePath = Path.Combine(Directory.GetCurrentDirectory(), "SeeData", "Partidas.json");
+                var jsonFilePath = "SeedData/Partidas.json";
                 var jsonContent = await File.ReadAllTextAsync(jsonFilePath);
                 var partidas = JsonConvert.DeserializeObject<List<PartidaEntity>>(jsonContent);
 
-                if (!await context.Partidas.AnyAsync())
-                {
-                    var user = await context.Users.FirstOrDefaultAsync();
-                    for (int i = 0; i < partidas.Count; i++)
-                    {
-                        partidas[i].CreatedBy = user.Id;
-                        partidas[i].CreatedDate = DateTime.Now;
-                        partidas[i].UpdatedBy = user.Id;
-                        partidas[i].UpdatedDate = DateTime.Now;
-                    }
-                    context.AddRange(partidas);
+                if (!await context.Partidas.AnyAsync()) { 
+                    context.Partidas.AddRange(partidas);
                     await context.SaveChangesAsync();
                 }
             }
+            
             catch (Exception e)
             {
                 var logger = loggerFactory.CreateLogger<PartidaSeeder>();
@@ -84,23 +79,27 @@ namespace Examen_2_Lenguajes.Database.Context
         {
             try
             {
-                var jsonFilePath = Path.Combine(Directory.GetCurrentDirectory(), "SeeData", "CuentasContables.json");
+                var jsonFilePath = "SeedData/CuentasContables.json";
                 var jsonContent = await File.ReadAllTextAsync(jsonFilePath);
                 var cuentas = JsonConvert.DeserializeObject<List<CuentaContableEntity>>(jsonContent);
 
+                // Verificar si ya existen registros para evitar duplicados
                 if (!await context.CuentaContables.AnyAsync())
                 {
-                    context.AddRange(cuentas);
+                    context.CuentaContables.AddRange(cuentas);
                     await context.SaveChangesAsync();
                 }
             }
             catch (Exception e)
             {
                 var logger = loggerFactory.CreateLogger<PartidaSeeder>();
-                logger.LogError(e, "Error al ejecutar el Seed de Cuentas Contables.");
+                logger.LogError(e, "Error al ejecutar el Seed de Cuentas.");
             }
         }
+
+
     }
+
 
 
 }

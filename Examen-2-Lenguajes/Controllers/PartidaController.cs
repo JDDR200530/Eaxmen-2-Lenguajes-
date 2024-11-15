@@ -9,11 +9,11 @@ namespace Examen_2_Lenguajes.Controllers
 {
     [ApiController]
     [Route("/api/partidas")]
-    public class PaginacionController : ControllerBase
+    public class PartidaController : ControllerBase
     {
         private readonly IPartidaService partidaService;
 
-        public PaginacionController(IPartidaService partidaService)
+        public PartidaController(IPartidaService partidaService)
         {
             this.partidaService = partidaService;
         }
@@ -29,6 +29,13 @@ namespace Examen_2_Lenguajes.Controllers
                 response.Message,
                 response.Data,
             });
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<ResponseDto<PartidaDto>>> Create(PartidaCreatedDto dto)
+        {
+            var response = await partidaService.CreatePartidaAsync(dto);
+            return StatusCode(response.StatusCode, response);
         }
 
 

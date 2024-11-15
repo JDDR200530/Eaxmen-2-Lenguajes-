@@ -70,14 +70,59 @@ namespace Examen_2_Lenguajes.Services
 
         public async Task<ResponseDto<PartidaDto>> CreatePartidaAsync(PartidaCreatedDto dto)
         {
-            // Mapear el DTO a la entidad de la partida
+            if (dto.CodigoCuenta <= 0 || dto.Monto <= 0)
+            {
+                return new ResponseDto<PartidaDto>
+                {
+                    StatusCode = 400,
+                    Status = false,
+                    Message = "La cuenta contable y el monto deben ser positivos.",
+                    Data = null
+                };
+            }
+
+            // Mapear el DTO a la entidad de la partida contable
             var partidaEntity = _mapper.Map<PartidaEntity>(dto);
 
-            
+            // Asegurarse de que el tipo de transacción es válido (Debe o Haber)
+            if (string.IsNullOrEmpty(partidaEntity.TipoTransaccion) ||
+                (partidaEntity.TipoTransaccion != "Debe" && partidaEntity.TipoTransaccion != "Haber"))
+            {
+                return new ResponseDto<PartidaDto>
+                {
+                    StatusCode = 400,
+                    Status = false,
+                    Message = "El tipo de transacción (Debe/Haber) es obligatorio y debe ser válido.",
+                    Data = null
+                };
+            }
 
-            context.Partidas.Add(partidaEntity);  // Agregar la nueva partida al contexto
+            // Obtener la cuenta contable utilizando el código de cuenta
+            var cuentaContable = await context.CuentaContables
+                .FirstOrDefaultAsync(c => c.CodigoCuenta == dto.CodigoCuenta);
 
-            // Guardar los cambios en la base de datos
+            if (cuentaContable == null)
+            {
+                return new ResponseDto<PartidaDto>
+                {
+                    StatusCode = 404,
+                    Status = false,
+                    Message = "La cuenta contable no existe.",
+                    Data = null
+                };
+            }
+
+            // Asignar la cuenta contable a la entidad de la partida
+            partidaEntity.CuentaContable = cuentaContable;
+            partidaEntity.NombreCuenta = cuentaContable.NombreCuenta;
+
+            // Asignar el usuario que crea la partida
+            partidaEntity.UserId = dto.UserId;
+            partidaEntity.CreatedByUser = await context.Users
+                .FirstOrDefaultAsync(u => u.Id == dto.UserId);
+
+            // Agregar la nueva partida al contexto y guardar los cambios
+            context.Partidas.Add(partidaEntity);
             await context.SaveChangesAsync();
 
             // Mapear la entidad creada a un DTO para la respuesta
@@ -88,7 +133,7 @@ namespace Examen_2_Lenguajes.Services
             {
                 StatusCode = 201,
                 Status = true,
-                Message = "La partida se ha creado correctamente",
+                Message = "La partida contable se ha creado correctamente.",
                 Data = partidaDto
             };
         }

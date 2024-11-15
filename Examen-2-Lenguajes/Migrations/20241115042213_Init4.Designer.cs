@@ -4,6 +4,7 @@ using Examen_2_Lenguajes.Database.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Examen_2_Lenguajes.Migrations
 {
     [DbContext(typeof(PartidasDbContext))]
-    partial class PartidasDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241115042213_Init4")]
+    partial class Init4
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -359,7 +362,7 @@ namespace Examen_2_Lenguajes.Migrations
             modelBuilder.Entity("Examen_2_Lenguajes.Entity.PartidaEntity", b =>
                 {
                     b.HasOne("Examen_2_Lenguajes.Entity.CuentaContableEntity", "CuentaContable")
-                        .WithMany()
+                        .WithMany("Partidas")
                         .HasForeignKey("CodigoCuenta")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -459,6 +462,11 @@ namespace Examen_2_Lenguajes.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Examen_2_Lenguajes.Entity.CuentaContableEntity", b =>
+                {
+                    b.Navigation("Partidas");
                 });
 #pragma warning restore 612, 618
         }

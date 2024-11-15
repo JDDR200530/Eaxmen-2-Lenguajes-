@@ -77,7 +77,7 @@ namespace Examen_2_Lenguajes.Services
                         FullName = $"{userEntity.FirstName} {userEntity.LastName}",
                         Email = userEntity.Email,
                         Token = new JwtSecurityTokenHandler().WriteToken(jwtToken),
-                        TokenExpiration = jwtToken.ValidTo
+                        
                     }
                 };
             }
@@ -85,60 +85,7 @@ namespace Examen_2_Lenguajes.Services
             return UnauthorizedResponse("Error en el inicio de sesión");
         }
 
-        public async Task<ResponseDto<LoginResponseDto>> RefreshTokenAsync(RefreshTokenDto dto)
-        {
-            try
-            {
-                var principal = GetTokenPrincipal(dto.Token);
-                var emailClaim = principal.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email);
-
-                if (emailClaim == null)
-                {
-                    return UnauthorizedResponse("Acceso no autorizado, no se encontró un correo válido.");
-                }
-
-                var userEntity = await _userManager.FindByEmailAsync(emailClaim.Value);
-                if (userEntity == null || userEntity.RefreshToken != dto.RefreshToken || userEntity.RefreshTokenExpired < DateTime.Now)
-                {
-                    return UnauthorizedResponse("Acceso no autorizado: sesión inválida o expirada.");
-                }
-
-                var authClaims = await GetClaims(userEntity);
-                var jwtToken = GenerateToken(authClaims);
-                var refreshToken = GenerateRefreshTokenString();
-
-                userEntity.RefreshToken = refreshToken;
-                userEntity.RefreshTokenExpired = DateTime.Now.AddMinutes(int.Parse(_configuration["JWT:RefreshTokenExpire"] ?? "30"));
-
-                _context.Entry(userEntity).State = EntityState.Modified;
-                await _context.SaveChangesAsync();
-
-                return new ResponseDto<LoginResponseDto>
-                {
-                    Status = true,
-                    StatusCode = 200,
-                    Message = "Token renovado exitosamente",
-                    Data = new LoginResponseDto
-                    {
-                        FullName = $"{userEntity.FirstName} {userEntity.LastName}",
-                        Email = userEntity.Email,
-                        Token = new JwtSecurityTokenHandler().WriteToken(jwtToken),
-                        TokenExpiration = jwtToken.ValidTo,
-                        RefreshToken = refreshToken
-                    }
-                };
-            }
-            catch (Exception e)
-            {
-                _logger.LogError(e, e.Message);
-                return new ResponseDto<LoginResponseDto>
-                {
-                    StatusCode = 500,
-                    Status = false,
-                    Message = "Ocurrió un error al renovar el token"
-                };
-            }
-        }
+      
 
         public async Task<ResponseDto<LoginResponseDto>> RegisterAsync(RegisterDto dto)
         {
@@ -168,7 +115,7 @@ namespace Examen_2_Lenguajes.Services
                         FullName = $"{user.FirstName} {user.LastName}",
                         Email = user.Email,
                         Token = new JwtSecurityTokenHandler().WriteToken(jwtToken),
-                        TokenExpiration = jwtToken.ValidTo
+                       
                     }
                 };
             }

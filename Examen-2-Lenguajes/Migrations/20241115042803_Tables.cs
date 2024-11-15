@@ -5,7 +5,7 @@
 namespace Examen_2_Lenguajes.Migrations
 {
     /// <inheritdoc />
-    public partial class Init2 : Migration
+    public partial class Tables : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
