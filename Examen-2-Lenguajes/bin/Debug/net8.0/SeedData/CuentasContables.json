@@ -1,0 +1,206 @@
+[
+  {
+    "CodigoCuenta": 1000,
+    "NombreCuenta": "Activo",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1100,
+    "NombreCuenta": "Efectivo y Equivalentes",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1101,
+    "NombreCuenta": "Caja",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1102,
+    "NombreCuenta": "Bancos",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1103,
+    "NombreCuenta": "Inversiones Temporales",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1200,
+    "NombreCuenta": "Cuentas por Cobrar",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1201,
+    "NombreCuenta": "Clientes",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1202,
+    "NombreCuenta": "Documentos por Cobrar",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1300,
+    "NombreCuenta": "Inventarios",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1301,
+    "NombreCuenta": "Materia Prima",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 1302,
+    "NombreCuenta": "Productos Terminados",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 2000,
+    "NombreCuenta": "Pasivo",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 2100,
+    "NombreCuenta": "Cuentas por Pagar",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 2101,
+    "NombreCuenta": "Proveedores",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 2102,
+    "NombreCuenta": "Acreedores Diversos",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 2200,
+    "NombreCuenta": "Préstamos a Corto Plazo",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 2300,
+    "NombreCuenta": "Pasivos a Largo Plazo",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 2301,
+    "NombreCuenta": "Préstamos Bancarios",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 3000,
+    "NombreCuenta": "Patrimonio",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 3100,
+    "NombreCuenta": "Capital Social",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 3200,
+    "NombreCuenta": "Reservas",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 3300,
+    "NombreCuenta": "Resultados Acumulados",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 4000,
+    "NombreCuenta": "Ingresos",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 4100,
+    "NombreCuenta": "Ventas",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 4101,
+    "NombreCuenta": "Ventas Locales",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 4102,
+    "NombreCuenta": "Ventas al Exterior",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 4200,
+    "NombreCuenta": "Ingresos Financieros",
+    "Monto": 0,
+    "Movimiento": "Haber"
+  },
+  {
+    "CodigoCuenta": 5000,
+    "NombreCuenta": "Gastos",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 5100,
+    "NombreCuenta": "Gastos de Operación",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 5101,
+    "NombreCuenta": "Sueldos y Salarios",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 5102,
+    "NombreCuenta": "Alquiler",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 5103,
+    "NombreCuenta": "Suministros",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 5200,
+    "NombreCuenta": "Gastos Financieros",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  },
+  {
+    "CodigoCuenta": 5201,
+    "NombreCuenta": "Intereses Pagados",
+    "Monto": 0,
+    "Movimiento": "Debe"
+  }
+]
